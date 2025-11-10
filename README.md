@@ -7,7 +7,7 @@ The report leverages Power BI’s rich visualization capabilities to present dat
 
   Project Contents
 
-* `.pbix` file– The main Power BI dashboard file.
+
 * `data/` folder  – Contains the raw or cleaned datasets used in the report.
 * `images/` folder (optional) – Screenshots or preview images of the dashboard.
 * `README.md` – Project documentation.
@@ -33,14 +33,8 @@ The report leverages Power BI’s rich visualization capabilities to present dat
 * Drill-through and tooltip interactivity.
 * Combined visuals such as Combo Chart, Matrix, and Cards.
 
-  How to Use
-
-1. Clone or download this repository.
-2. Open the `.pbix` file in *Power BI Desktop.
-3. Update or refresh the data source paths if needed.
-4. Explore and interact with the dashboard visuals.
-
- 🧠 Insights Gained
+ 
+  Insights Gained
 
 * Identified patterns and trends from the dataset.
 * Highlighted top-performing categories and areas needing improvement.
