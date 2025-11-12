@@ -8,8 +8,8 @@ The report leverages Power BI’s rich visualization capabilities to present dat
   Project Contents
 
 
-* `data/` folder  – Contains the raw or cleaned datasets used in the report.
-* `images/` folder (optional) – Screenshots or preview images of the dashboard.
+* `data` folder  – Contains the raw or cleaned datasets used in the report.
+* `images` folder (optional) – Screenshots or preview images of the dashboard.
 * `README.md` – Project documentation.
 
   Objectives
@@ -30,7 +30,6 @@ The report leverages Power BI’s rich visualization capabilities to present dat
 * Dynamic charts and slicers for filtering data.
 * KPI cards and trend analysis visuals.
 * Custom themes and layout for a clean presentation.
-* Drill-through and tooltip interactivity.
 * Combined visuals such as Combo Chart, Matrix, and Cards.
 
  
